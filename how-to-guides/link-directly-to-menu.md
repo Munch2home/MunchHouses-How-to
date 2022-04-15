@@ -8,20 +8,19 @@ description: Lean how to use menu_id to create a direct link to a specific menu.
 
 Creating a direct link to your menu is a fairly straight forward process.  The below example links to a specific menu within the demo store.
 
-```
-store-demo.cloudwaitress.com?menu_id=6kNXYMVEl
+```https://luthfurkitchenehbecommercebackserversmuchhouse1hbecommerce1t.munchhouses.co.uk/
 ```
 
 Replace the above url with your restaurant url;
 
 ```bash
-store-demo.cloudwaitress.com > yourdomain.com
+https://luthfurkitchenehbecommercebackserversmuchhouse1hbecommerce1t.munchhouses.co.uk/
 ```
 
 Replace add the menu id of the menu that you would like to link to;
 
 ```bash
-menu_id=6kNXYMVEl > menu_id=id from your menu
+https://luthfurkitchenehbecommercebackserversmuchhouse1hbecommerce1t.munchhouses.co.uk/
 ```
 
 {% hint style="info" %}
