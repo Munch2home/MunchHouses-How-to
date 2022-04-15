@@ -27,7 +27,7 @@ There are several key features of the order management interfaces:
 
 ### **Board View**
 
-![Board view](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1l3lo9y.png)
+![Board view]![system pic1A KEEP SMALL](https://user-images.githubusercontent.com/68750044/163641121-d73f5a63-a12d-4cd6-bb07-f118b42025dd.png)
 
 The board view is fantastic for actually managing orders in real-time. Orders flow from left to right along the different status columns.
 
