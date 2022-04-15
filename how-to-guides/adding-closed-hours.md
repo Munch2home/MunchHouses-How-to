@@ -8,4 +8,4 @@ Instructions on how to add closed dates and special hours to your store in advan
 
 
 Video instuctions for adding closed dates
-{% endembed %}
+
