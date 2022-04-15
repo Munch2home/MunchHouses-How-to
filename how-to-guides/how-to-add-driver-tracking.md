@@ -8,7 +8,7 @@ description: >-
 
 ## Features
 
-![](../.gitbook/assets/screen-shot-2020-08-29-at-8.20.24-pm.png)
+![](../.![image](https://user-images.githubusercontent.com/68750044/163647309-5fe9f0e0-2874-4f70-90e6-2b46965d8e20.png)
 
 * Easy-to-use dashboard
 * CloudWaitress orders automatically added
