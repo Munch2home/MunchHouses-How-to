@@ -14,7 +14,7 @@ description: Postmates is a last mile delivery services operating in the USA.
 
 
 
-## How to set-up CloudWaitress &gt; Postmates integration
+## How to set-up MunchHouses &gt; Postmates integration
 
 {% tabs %}
 {% tab title="How to generate the Webhook?" %}
@@ -81,7 +81,7 @@ Once you enter in your restaurant information, you will be redirected to the Pos
 IMPORTANT - The following settings must be applied for the Postmates integration to work.
 {% endhint %}
 
-**In Cloudwaitress the following settings must be applied;**
+**In MunchHouses the following settings must be applied;**
 
 1. Generate and add the webhook to Postmates \(details above\)
 
