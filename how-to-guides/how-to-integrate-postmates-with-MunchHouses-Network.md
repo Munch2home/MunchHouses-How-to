@@ -2,7 +2,7 @@
 description: Postmates is a last mile delivery services operating in the USA.
 ---
 
-# How to integrate Postmates with CloudWaitress
+# How to integrate Postmates with munch Houses
 
 ## POSTMATES Integration
 
