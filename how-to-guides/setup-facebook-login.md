@@ -38,7 +38,7 @@ Enable "Embedded Browser OAuth Login"
 
 Enter your store domain into the "Valid OAuth Redirect URIs" field and press "Save Changes"
 
-![image](https://user-images.githubusercontent.com/68750044/163681687-16f91b7d-f610-476b-b497-6876b1def99c.png)
+![image](https://user-images.githubusercontent.com/68750044/163681724-a86042bc-5022-4344-9ca8-a119ceee6a30.png)
 
 Finally, copy your Facebook App ID as shown on the top of the app dashboard
 
