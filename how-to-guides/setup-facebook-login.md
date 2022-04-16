@@ -30,7 +30,7 @@ On the left navigation menu, press "Products" and press the "Set Up" button for 
 
 On the next screen, select "Web", you should see your "Site URL" already filled out, press "Save"
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_gdcuti.png)
+
 
 On the left menu, under "Products &gt; Facebook Login", select "Settings"
 
@@ -38,7 +38,6 @@ Enable "Embedded Browser OAuth Login"
 
 Enter your store domain into the "Valid OAuth Redirect URIs" field and press "Save Changes"
 
-![image](https://user-images.githubusercontent.com/68750044/163681724-a86042bc-5022-4344-9ca8-a119ceee6a30.png)
 
 Finally, copy your Facebook App ID as shown on the top of the app dashboard
 
@@ -46,9 +45,8 @@ Finally, copy your Facebook App ID as shown on the top of the app dashboard
 
 With the App ID copied, visit your restaurant dashboard and to "Settings &gt; System &gt; Customer Accounts &gt; Facebook". Paste your App ID and press save
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_u1lgnf.png)
 
 Visit your online store and confirm that the Facebook login option is available under the "Login / Signup" popup
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1c1swn7.png)
+
 
