@@ -47,6 +47,7 @@ Enter your store domain into the "Valid OAuth Redirect URIs" field and press "Sa
 
 Finally, copy your Facebook App ID as shown on the top of the app dashboard
 
+![image](https://user-images.githubusercontent.com/68750044/163682352-aecbee24-a51c-4b48-aca5-67e59aa66f69.png)
 
 
 With the App ID copied, visit your restaurant dashboard and to "Settings &gt; System &gt; Customer Accounts &gt; Facebook". Paste your App ID and press save
