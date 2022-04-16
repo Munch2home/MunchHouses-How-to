@@ -24,6 +24,9 @@ Scroll down and press the "Add Platform" button and select "Website
 
 Enter your ordering site URL into the "Site URL" box and then press "Save Changes" on the bottom right.
 
+![image](https://user-images.githubusercontent.com/68750044/163681988-e42a718e-3fc3-4e4a-81a5-444c2b593aef.png)
+
+
 
 
 On the left navigation menu, press "Products" and press the "Set Up" button for Facebook Login.
