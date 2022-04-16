@@ -42,7 +42,7 @@ A domain is any web address, for example, 'google.com' is a domain.
 
 ### **Your Sub-domain**
 
-Your store will be accessible on your own unique subdomain that you can choose. Your subdomain will always be hosted under "example.cloudwaitress.com". Every subdomain must be unique and is taken on a first come first serve basis.
+Your store will be accessible on your own unique subdomain that you can choose. Your subdomain will always be hosted under "example.MunchHouses.com". Every subdomain must be unique and is taken on a first come first serve basis.
 
 ### **Custom Domain**
 
