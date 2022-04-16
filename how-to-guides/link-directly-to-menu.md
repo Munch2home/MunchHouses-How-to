@@ -31,7 +31,7 @@ https://luthfurkitchenehbecommercebackserversmuchhouse1hbecommerce1t.munchhouses
 
 Log in to your restaurant store. Select the Menus section using the knife and fork button on the left-hand menu.  Then press the 'Edit' button on the menu that you would like to directly link to.
 
-![](../[image](https://user-images.githubusercontent.com/68750044/163679950-292ddefe-3da9-4ff6-b23d-39321ecf799e.png)
+![image](https://user-images.githubusercontent.com/68750044/163680052-31f10a60-71fd-4a88-ae08-05da92b96826.png)
 
 The menu id is displayed at the top of the page.  Use this code to directly link to your menu as per the above instructions.
 
