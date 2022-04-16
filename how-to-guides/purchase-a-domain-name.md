@@ -30,9 +30,9 @@ Once you have purchased a domain, you will need to complete the steps in our oth
 4. Navigate to the "Advanced DNS" tab under your domain settings
 5. Press "Add New Record" to create a DNS record. 
 
-{% hint style="warning" %}
+
 You may have to remove some default records already set in order to add ours
-{% endhint %}
+
 
 ## Additional Info
 
