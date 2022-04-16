@@ -38,11 +38,11 @@ Enable "Embedded Browser OAuth Login"
 
 Enter your store domain into the "Valid OAuth Redirect URIs" field and press "Save Changes"
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_hbyf21.png)
+![image](https://user-images.githubusercontent.com/68750044/163681687-16f91b7d-f610-476b-b497-6876b1def99c.png)
 
 Finally, copy your Facebook App ID as shown on the top of the app dashboard
 
-![image](https://user-images.githubusercontent.com/68750044/163681637-60300db9-fd26-43e1-a400-2245d48e2771.png)
+
 
 With the App ID copied, visit your restaurant dashboard and to "Settings &gt; System &gt; Customer Accounts &gt; Facebook". Paste your App ID and press save
 
