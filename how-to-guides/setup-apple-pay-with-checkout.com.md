@@ -30,7 +30,6 @@ In order to configure and use Apple Pay with MunchHouses, you need to prepare so
 3. Choose a useful description for the merchant.
 4. For merchant ID, you should use a descriptive name to indicate both your business and the environment you will use it in, for example, **merchant.com.mystore.production**.
 
-{% embed url="https://www.youtube.com/watch?v=UY23UdJ5uJA" caption="Demo from Checkout.com" %}
 
 ### Configure Checkout.com as a Payment Processor
 
@@ -45,7 +44,6 @@ In order to configure and use Apple Pay with MunchHouses, you need to prepare so
 9. Click Download, and store the `.cer` file that you received.
 10. Go back to your Checkout.com Hub Account, and update this `.cer` file.
 
-{% embed url="https://www.youtube.com/watch?v=jyY789fQoKs" caption="Demo from Checkout.com" %}
 
 ### Prepare the Domain for Validation
 
@@ -53,7 +51,7 @@ In order to configure and use Apple Pay with MunchHouses, you need to prepare so
 2. Under the Merchant Domains section, click Add Domain.
 3. Enter the domain for your business and click Save.
 4. Click Download to get the `.txt` file.
-5. You should store this file in an accessible place. The domain verification step is not completed yet. We're going to get back to this as we configure Apple Pay on the CloudWaitress.
+5. You should store this file in an accessible place. The domain verification step is not completed yet. We're going to get back to this as we configure Apple Pay on the MunchHouses.
 
 ### Create your Apple Pay Certificates
 
@@ -74,7 +72,6 @@ In order to configure and use Apple Pay with MunchHouses, you need to prepare so
    openssl x509 -inform der -in merchant_id.cer -out certificate.pem
    ```
 
-{% embed url="https://youtu.be/yK1DuXqVCEc" caption="Demo from Checkout.com" %}
 
 ### Summary
 
@@ -86,11 +83,11 @@ After going through all the above steps, you should have the following at your h
 * A `apple-developer-merchantid-domain-association.txt` file that is provided by Apple when you add the domain.
 * A `.key` and `.pem` certificate files.
 
-## Enable Apple Pay in CloudWaitress Dashboard
+## Enable Apple Pay in MunchHouses Dashboard
 
-After configuring Apple Developer Account and Checkout.com, we need to do some steps on the CloudWaitress dashboard to make Apple Pay fully functional.
+After configuring Apple Developer Account and Checkout.com, we need to do some steps on the MunchHouses dashboard to make Apple Pay fully functional.
 
-1. Head over your restaurant settings in your CloudWaitress dashboard.
+1. Head over your restaurant settings in your MunchHouses dashboard.
 2. Click on the **Payments** tab and click **Add Payment Method**.
 3. Select **Apple Pay \(Checkout.com\)** in the payment method list, and click **Add Method**.
 
