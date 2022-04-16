@@ -10,7 +10,7 @@ Visit [https://developers.facebook.com/](https://developers.facebook.com/) and l
 
 On the top right corner, select "My Apps" and press "Add New App"
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_aqheot.png)
+![image](https://user-images.githubusercontent.com/68750044/163681448-cb8831d0-551a-41e2-9e45-21164ce3696c.png)
 
 Fill out the form and create the app
 
