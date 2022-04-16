@@ -11,7 +11,7 @@ description: >-
 ![](../.![image](https://user-images.githubusercontent.com/68750044/163647309-5fe9f0e0-2874-4f70-90e6-2b46965d8e20.png)
 
 * Easy-to-use dashboard
-* CloudWaitress orders automatically added
+* MunchHouses orders automatically added
 * Real-time tracking of drivers for restaurant and customer
 * Mobile app for drivers
 * Customer email notifications
