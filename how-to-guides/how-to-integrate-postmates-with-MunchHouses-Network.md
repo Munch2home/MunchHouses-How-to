@@ -9,7 +9,7 @@ description: Postmates is a last mile delivery services operating in the USA.
 {% hint style="info" %}
 **Which cities is Postmates available in?**
 
-[This is the updated list of cities where Postmates is available](https://www.notion.so/cloudwaitresswiki/POSTMATES-Integration-ca913853d3ad493eb935d2a5f1120c30#8f10f90feb7a4b94ab35dfdbe0b14158)
+[This is the updated list of cities where Postmates is available](https://www.notion.so/MunchHouseswiki/POSTMATES-Integration-ca913853d3ad493eb935d2a5f1120c30#8f10f90feb7a4b94ab35dfdbe0b14158)
 {% endhint %}
 
 
@@ -61,7 +61,7 @@ Post mates will show during the checkout;
 
 Postmates deliveries will show on the dashboard with the Postmates logo;
 
-![Postmates logo shows in the CloudWaitress order dashboard](../.gitbook/assets/postmates-dashboard-ui.png)
+![Postmates logo shows in the MunchHouses order dashboard](../.gitbook/assets/postmates-dashboard-ui.png)
 {% endtab %}
 {% endtabs %}
 
