@@ -13,9 +13,8 @@ description: >-
 3. We will create and send you pictures of your app icon and splash screen for you to approve
 4. Finally, we publish the apps to your Apple and Android store accounts
 
-{% hint style="info" %}
+
 This application is compatible with Android and iOS platforms.
-{% endhint %}
 
 
 
