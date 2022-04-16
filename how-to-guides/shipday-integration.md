@@ -35,7 +35,7 @@ Please make sure that you have Wait Times & Auto Statuses configured.  Otherwise
 **Find at**: 'Settings &gt; Services &gt; Deliveries &gt; Wait Times & Auto Statuses'.
 {% endhint %}
 
-![See drivers and deliveries in the Shipday &apos;Map&apos; section.](../.gitbook/assets/screen-shot-2020-08-29-at-8.20.24-pm.png)
+![image](https://user-images.githubusercontent.com/68750044/163683044-48e77c1c-fdc3-47cc-8cac-ef47ff51d026.png)
 
 ## 
 
