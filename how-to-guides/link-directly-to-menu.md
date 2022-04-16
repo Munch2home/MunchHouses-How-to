@@ -35,5 +35,5 @@ Log in to your restaurant store. Select the Menus section using the knife and fo
 
 The menu id is displayed at the top of the page.  Use this code to directly link to your menu as per the above instructions.
 
-![](../.gitbook/assets/menuidstep2%20%282%29.png)
+![image](https://user-images.githubusercontent.com/68750044/163680085-59e1b1c3-5898-4753-880d-01e67c5859f8.png)
 
