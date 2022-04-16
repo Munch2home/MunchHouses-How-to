@@ -16,7 +16,7 @@ Fill out the form and create the app
 
 On the app dashboard the left menu, select "Settings &gt; Basic". Enter your website domain into the "App Domains" field
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_iokp6p.png)
+![image](https://user-images.githubusercontent.com/68750044/163681500-44b21b55-12fd-460a-8e1a-45d0aa4d8de2.png)
 
 Scroll down and press the "Add Platform" button and select "Website
 
@@ -42,7 +42,7 @@ Enter your store domain into the "Valid OAuth Redirect URIs" field and press "Sa
 
 Finally, copy your Facebook App ID as shown on the top of the app dashboard
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_yxw5jy.png)
+![image](https://user-images.githubusercontent.com/68750044/163681637-60300db9-fd26-43e1-a400-2245d48e2771.png)
 
 With the App ID copied, visit your restaurant dashboard and to "Settings &gt; System &gt; Customer Accounts &gt; Facebook". Paste your App ID and press save
 
