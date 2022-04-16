@@ -24,7 +24,7 @@ Scroll down and press the "Add Platform" button and select "Website
 
 Enter your ordering site URL into the "Site URL" box and then press "Save Changes" on the bottom right.
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_pa5uog.png)
+
 
 On the left navigation menu, press "Products" and press the "Set Up" button for Facebook Login.
 
