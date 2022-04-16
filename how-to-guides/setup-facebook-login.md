@@ -41,7 +41,7 @@ Enable "Embedded Browser OAuth Login"
 
 Enter your store domain into the "Valid OAuth Redirect URIs" field and press "Save Changes"
 
-![image](https://user-images.githubusercontent.com/68750044/163682154-bf260913-65b8-4b3e-aef0-8214032bf2ee.png)
+![image](https://user-images.githubusercontent.com/68750044/163682286-a2403202-4d96-4552-8913-793ae95b2b39.png)
 
 
 
