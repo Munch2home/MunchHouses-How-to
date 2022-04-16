@@ -52,8 +52,14 @@ Finally, copy your Facebook App ID as shown on the top of the app dashboard
 
 With the App ID copied, visit your restaurant dashboard and to "Settings &gt; System &gt; Customer Accounts &gt; Facebook". Paste your App ID and press save
 
+![image](https://user-images.githubusercontent.com/68750044/163682378-5a905581-3d39-4099-a850-4a86cb3fc47a.png)
+
+
 
 Visit your online store and confirm that the Facebook login option is available under the "Login / Signup" popup
+
+![image](https://user-images.githubusercontent.com/68750044/163682388-8916a6df-f049-4a7a-8b5a-c3175a99e982.png)
+
 
 
 
